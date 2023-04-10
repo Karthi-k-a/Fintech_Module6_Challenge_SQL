@@ -1,5 +1,11 @@
 # Fintech_Module6_Challenge_SQL: Looking for Suspicious Transactions
 
+## Data Modelling
+**Entity Relationship Diagram (ERD)**
+
+## Data Engineering
+The files for schema and query are included in the `data` folder.
+
 ## Data Analysis - Part 1
 
 **How can you isolate (or group) the transactions of each cardholder?** <br>
