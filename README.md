@@ -2,6 +2,7 @@
 
 ## Data Modelling
 **Entity Relationship Diagram (ERD)**
+![](Entity Relationship Diagram (ERD).png)
 
 ## Data Engineering
 The files for schema and query are included in the `data` folder.
@@ -30,15 +31,19 @@ No. The `high_tran_not7to9` view in queries.sql shows the transactions made outs
 ## Data Analysis - Part 2
 
 **Transaction Data for Card Holder ID 2**
+![](Transaction Data for Card Holder ID 2.png)
 
 **Transaction Data for Card Holder ID 18**
+![](Transaction Data for Card Holder ID 18.png)
 
 **Combined Transaction Data for Card Holder IDs 2 and 18**
+![](Transaction Data for Card Holder IDs 2 and 18.png)
 
-**What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction?**
+**What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction?** <br>
+Cardholder 2 averages purchases between $2 and $20 on a consistent basis whereas cardholder 18 has larger transaction values at irregular intervals. This could mean that cardholder 18 has been a victim of fraud or it could just be that cardholder 18 prefers to use cash for small purchases and credit card for larger purchases.
 
 **Box plot representing the expenditure data from January 2018 to June 2018 for cardholder ID 25**
+![](Monthly Data for Card Holder ID 25.png)
 
-**Are there any outliers for cardholder ID 25? How many outliers are there per month?**
-
-**Do you notice any anomalies? Describe your observations and conclusions.**
+**Are there any outliers for cardholder ID 25? How many outliers are there per month?** <br>
+There are quite a few outliers for cardholder 25. There is 1 outlier in January, March and May; and 3 outliers in April and June.
