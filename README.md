@@ -2,7 +2,7 @@
 
 ## Data Modelling
 **Entity Relationship Diagram (ERD)**
-![](erd.png)
+[![](https://github.com/Karthi-k-a/Fintech_Module7_Challenge_SQL/blob/main/Images/erd.png)]
 
 ## Data Engineering
 The files for schema and query are included in the `data` folder.
