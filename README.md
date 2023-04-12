@@ -1,4 +1,4 @@
-# Fintech_Module6_Challenge_SQL: Looking for Suspicious Transactions
+# Fintech_Module7_Challenge_SQL: Looking for Suspicious Transactions
 
 ## Data Modelling
 **Entity Relationship Diagram (ERD)**
