@@ -47,3 +47,6 @@ Cardholder 2 averages purchases between $2 and $20 on a consistent basis whereas
 
 **Are there any outliers for cardholder ID 25? How many outliers are there per month?** <br>
 There are quite a few outliers for cardholder 25. There is 1 outlier in January, March and May; and 3 outliers in April and June.
+
+**Do you notice any anomalies? Describe your observations and conclusions.** <br>
+Based on the box plot above, January, March and May have an outlier of $1177, $1334 and $1046 respectively. Given the merchants, this could mean that cardholder 25 makes larger purchase for larger group once a month for breakfast or dinner. However, there are 3 larger transactions of $100, $1063 and $269 for April and 2 larger transactions of $1162 and $749 for June which are rather suspicious. This could mean that the cardholder has been a victim of credit card fraud.
